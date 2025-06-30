@@ -7,12 +7,12 @@ A foundational Python-based project designed to explore and implement **core mac
 
 ## 🚀 Features
 
-• ✅ Implementation of ML algorithms with and without libraries
-• ✅ Use of real-world datasets from online sources such as Kaggle
-• ✅ Focused on math-under-the-hood understanding and code clarity
-• ✅ Data preprocessing (cleaning, encoding, scaling)
-• ✅ Evaluation metrics and visualization
-• ✅ Organized, beginner-friendly codebase with comments
+• ✅ Implementation of ML algorithms with and without libraries  
+• ✅ Use of real-world datasets from online sources such as Kaggle  
+• ✅ Focused on math-under-the-hood understanding and code clarity  
+• ✅ Data preprocessing (cleaning, encoding, scaling)  
+• ✅ Evaluation metrics and visualization  
+• ✅ Organized, beginner-friendly codebase with comments  
 
 ---
 
@@ -20,16 +20,16 @@ A foundational Python-based project designed to explore and implement **core mac
 
 The project uses **Python** to demonstrate both manual and library-supported implementations of machine learning models.
 
-• **Language:** Python
-• **IDE:** VS Code / Jupyter Notebook
-• **Libraries Used:**
-– NumPy
-– Pandas
-– Matplotlib / Seaborn
-– Scikit-learn
-– (Pure Python for no-library implementations)
-• **Data Source:** Kaggle datasets (CSV)
-• **Visualization:** Matplotlib, Seaborn
+• **Language:** Python  
+• **IDE:** VS Code / Jupyter Notebook  
+• **Libraries Used:**  
+– NumPy  
+– Pandas  
+– Matplotlib / Seaborn  
+– Scikit-learn  
+– (Pure Python for no-library implementations)  
+• **Data Source:** Kaggle datasets (CSV)  
+• **Visualization:** Matplotlib, Seaborn  
 
 ---
 
