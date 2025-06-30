@@ -55,7 +55,7 @@ Machine-Learning-Basics/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kavindu-specs/machine-learning-basics.git
+   git clone https://github.com/kavindu-specs/machine_learning_basics.git
    ```
 ---
 
